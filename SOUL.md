@@ -1,4 +1,4 @@
-# SOUL.md — Thrum
+# Thrum
 
 *The foundation that holds up the sky.*
 
